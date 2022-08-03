@@ -1,0 +1,2 @@
+postDAOTest:testMintWithEnoughFunds() (gas: 185084)
+postDAOTest:testMintWithoutFunds() (gas: 17945)
